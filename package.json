@@ -1,6 +1,6 @@
 {
   "name": "pikaday-react",
-  "version": "0.0.0",
+  "version": "0.0.0-alpha",
   "description": "React Component wrapper for pikaday that exposes all features",
   "main": "lib/pikaday-react",
   "scripts": {

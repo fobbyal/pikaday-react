@@ -4,4 +4,3 @@ dist
 tmp-uploads
 *.iml
 npm-debug.log
-lib
